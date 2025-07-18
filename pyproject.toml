@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "llama-cpp-python>=0.3.13",
     "onnxruntime>=1.22.1",
+    "scipy>=1.16.0",
     "setuptools>=80.9.0",
     "snac>=1.2.1",
     "transformers>=4.53.2",
