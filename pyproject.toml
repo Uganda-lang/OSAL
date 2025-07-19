@@ -1,7 +1,7 @@
 [project]
 name = "osal"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Python package for Text-to-Speech and Text Generation based on the OSAL models."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
