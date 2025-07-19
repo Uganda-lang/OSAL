@@ -28,8 +28,6 @@ cd OSAL
 
 ## Quick Start: Multiple Language Instances
 
-The library is designed for flexibility. You can create as many TTS instances as you need, each configured for a specific language.
-
 We recommend storing your token as an environment variable for security.
 
 ```bash
