@@ -24,6 +24,8 @@ You can install Orpheus TTS via pip:
 git clone https://github.com/Uganda-lang/OSAL.git
 
 cd OSAL
+
+pip install -r requirements.txt
 ```
 
 ## Quick Start: Multiple Language Instances
