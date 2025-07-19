@@ -69,7 +69,7 @@ tts.save_wav("output_en.wav", sample_rate_en, audio_data_en)
 
 
 # Synthesize Luganda text using the default female voice for that language
-text_lug = "Mukulike okuva mu katambi ka Luganda." # "Welcome from the Luganda model."
+text_lug = "Mukulike okuva mu katambi ka Luganda."
 female_voice_lug = tts.get_default_female_voice("lug")
 print(f"Synthesizing Luganda: '{text_lug}'")
 sample_rate_lug, audio_data_lug = tts_lug.tts(
