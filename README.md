@@ -1,4 +1,4 @@
-**OSAL** This is an extension api for the ease access of the models we've developed. All the models can be accessed on the []
+**OSAL** This is an extension api for the ease access of the models we've developed. All the models can be accessed on the [huggingface hub](https://huggingface.co/USOAL)
 
 ## Features
 
